@@ -3,9 +3,9 @@
 ### We participated in an International Level competition conducted by IIT Bombay, E-yantra Robotics Competition, We chose to participate in the **Balancing Builder Bot** theme. 
 ## Team members:
 * ### Praidh V (Me) 
-* ### Pranav PKV
+* ### [Pranav PKV](https://github.com/pranav-co)
 * ### [Samarth SS](https://github.com/samarthsugur)
-* ### Sriram CS
+* ### [Sriram CS](https://github.com/sriramcs24)
 ## The timeline:
 * # Stage 1
 * ### Task 0: Software installation and testing   <br>  --> We installed CoppeliaSim and tested basic given by eyrc. <br> --> We attended a basic quiz related to our theme.
