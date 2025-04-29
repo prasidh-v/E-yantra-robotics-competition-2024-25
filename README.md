@@ -4,7 +4,7 @@
 ## Team members:
 * ### Praidh V (Me) 
 * ### Pranav PKV
-* ### [Samarth SS](https://github.com/samarthsugur
+* ### [Samarth SS](https://github.com/samarthsugur)
 * ### Sriram CS
 ## The timeline:
 * # Stage 1
