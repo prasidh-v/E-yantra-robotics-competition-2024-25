@@ -14,7 +14,7 @@
 * # Stage 2 
 ## Our team got selected for stage 2 for that we had to come under top 50 which was pretty difficult as there were many teams.
 * ### Task3: <br> This task is divided into 3 sub tasks: <br>  <br> --> Task3A: Arena preparation <br>  <br> --> Task3B: Bot and it's manipulator building <br> We designed the entire robot with the claw in fusion 360 and we got the robot 3D printed <br>  <br>  --> Task3C: Balancing of the bot <br>  Here we faced the real challenge while programming the bot as it was quite different to programme it in the simulator and the real world, it took us a lot of time to finish this task and we had to switch from python to C programe to code the entire bot as it was in arduino, we did complete the task. <br> check out the video: <br> 
-* ### Task4: <br> This task is divided into 2 sub tasks: <br>  <br> --> Task4A: traversing of the bot <br> Here we programmed the bot to move forward & backward and turn left & right. <br> Check out the video: <br> https://youtu.be/xAgsjKTE7fg?si=xi6UfdJaVUBlRNGt
+* ### Task4: <br> This task is divided into 2 sub tasks: <br>  <br> --> Task4A: traversing of the bot <br> Here we programmed the bot to move forward & backward and turn left & right. <br> Check out the video: <br> 
 ## For the rest of the tasks we could not complete due to our exams as it clashed at the exact same time, as everything was hardware tasks we had to be present all the time while doing the task 
 ## All the source code for the above tasks are available in this repository you can refer to it. 
 
