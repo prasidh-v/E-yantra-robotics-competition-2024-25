@@ -2,7 +2,7 @@
 ### This repo consists of the entire timeline and all the source codes related to the competition.
 ### We participated in an International Level competition conducted by IIT Bombay, E-yantra Robotics Competition, We chose to participate in the **Balancing Builder Bot** theme. 
 ## Team members:
-* ### Praidh V (Me) 
+* ### Prasidh V (Me) 
 * ### [Pranav PKV](https://github.com/pranav-co)
 * ### [Samarth SS](https://github.com/samarthsugur)
 * ### [Sriram CS](https://github.com/sriramcs24)
